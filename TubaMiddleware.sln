@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TubaMiddleware", "TubaMiddleware\TubaMiddleware.csproj", "{01E6FB1C-6CBB-4CDA-95FF-0689DD46DB4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01E6FB1C-6CBB-4CDA-95FF-0689DD46DB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E6FB1C-6CBB-4CDA-95FF-0689DD46DB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E6FB1C-6CBB-4CDA-95FF-0689DD46DB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E6FB1C-6CBB-4CDA-95FF-0689DD46DB4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

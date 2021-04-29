@@ -1,0 +1,9 @@
+/Users/tuba.saday/RiderProjects/TubaMiddleware/TubaMiddleware/obj/Debug/netcoreapp3.1/TubaMiddleware.csprojAssemblyReference.cache
+/Users/tuba.saday/RiderProjects/TubaMiddleware/TubaMiddleware/obj/Debug/netcoreapp3.1/TubaMiddleware.AssemblyInfoInputs.cache
+/Users/tuba.saday/RiderProjects/TubaMiddleware/TubaMiddleware/obj/Debug/netcoreapp3.1/TubaMiddleware.AssemblyInfo.cs
+/Users/tuba.saday/RiderProjects/TubaMiddleware/TubaMiddleware/obj/Debug/netcoreapp3.1/TubaMiddleware.csproj.CoreCompileInputs.cache
+/Users/tuba.saday/RiderProjects/TubaMiddleware/TubaMiddleware/bin/Debug/netcoreapp3.1/TubaMiddleware.deps.json
+/Users/tuba.saday/RiderProjects/TubaMiddleware/TubaMiddleware/bin/Debug/netcoreapp3.1/TubaMiddleware.dll
+/Users/tuba.saday/RiderProjects/TubaMiddleware/TubaMiddleware/bin/Debug/netcoreapp3.1/TubaMiddleware.pdb
+/Users/tuba.saday/RiderProjects/TubaMiddleware/TubaMiddleware/obj/Debug/netcoreapp3.1/TubaMiddleware.dll
+/Users/tuba.saday/RiderProjects/TubaMiddleware/TubaMiddleware/obj/Debug/netcoreapp3.1/TubaMiddleware.pdb
